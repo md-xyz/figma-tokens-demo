@@ -1,5 +1,6 @@
 {
   "tokenSetOrder": [
-    "global-color-tokens"
+    "global-color-tokens",
+    "global-hover-color-tokens"
   ]
 }
