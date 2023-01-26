@@ -4,7 +4,7 @@
     "name": "dark",
     "selectedTokenSets": {
       "global-color-tokens": "enabled",
-      "light-theme-tokens": "disabled"
+      "global-hover-color-tokens": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -13,8 +13,7 @@
     "name": "light",
     "selectedTokenSets": {
       "global-color-tokens": "enabled",
-      "global-hover-color-tokens": "enabled",
-      "light-theme-tokens": "disabled"
+      "global-hover-color-tokens": "disabled"
     },
     "$figmaStyleReferences": {}
   }
