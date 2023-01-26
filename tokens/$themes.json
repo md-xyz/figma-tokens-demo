@@ -3,7 +3,7 @@
     "id": "656a73d6c8f20e7bd415b798f6abcd2d28630f9f",
     "name": "dark",
     "selectedTokenSets": {
-      "global-hover-colors": "disabled"
+      "white-theme-tokens": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -11,7 +11,7 @@
     "id": "f15047900bfad4371f1809349f57413a2ad6b2a5",
     "name": "light",
     "selectedTokenSets": {
-      "global-hover-colors": "disabled"
+      "white-theme-tokens": "disabled"
     },
     "$figmaStyleReferences": {}
   }

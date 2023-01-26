@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
     "global-colors",
-    "global-hover-colors"
+    "global-hover-colors",
+    "white-theme-tokens"
   ]
 }
