@@ -1,3 +1,5 @@
 {
-  "tokenSetOrder": []
+  "tokenSetOrder": [
+    "global-color-tokens"
+  ]
 }
